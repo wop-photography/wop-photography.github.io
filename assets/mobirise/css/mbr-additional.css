@@ -721,12 +721,12 @@ a {
   color: #ffffff;
 }
 .cid-sqCCCGbnuw {
-  padding-top: 0rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #ef6c2a;
 }
 .cid-sqCCCGbnuw .content-wrapper {
-  background: #ffffff;
+  background: #ef6c2a;
 }
 @media (max-width: 991px) {
   .cid-sqCCCGbnuw .content-wrapper .image-wrapper {
@@ -756,15 +756,15 @@ a {
   object-fit: cover;
 }
 .cid-sqCCCGbnuw .card-title {
-  color: #000000;
+  color: #ffffff;
 }
 .cid-sqCC2Iys5Z {
-  padding-top: 0rem;
-  padding-bottom: 0rem;
-  background-color: #ff9966;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #ffffff;
 }
 .cid-sqCC2Iys5Z .content-wrapper {
-  background: #ff9966;
+  background: #ffffff;
 }
 @media (max-width: 991px) {
   .cid-sqCC2Iys5Z .content-wrapper .row {
@@ -797,12 +797,12 @@ a {
   object-fit: cover;
 }
 .cid-sqCC2Iys5Z .card-title {
-  color: #ffffff;
+  color: #000000;
 }
 .cid-sqCC2XxUlm {
   padding-top: 4rem;
   padding-bottom: 4rem;
-  background-image: url("../../../assets/images/wop-sito-tavola-disegno-1.png");
+  background-color: #ef6c2a;
 }
 .cid-sqCC2XxUlm .item {
   display: flex;
@@ -810,7 +810,7 @@ a {
   margin-bottom: 2rem;
 }
 .cid-sqCC2XxUlm .icon-box {
-  background: #ffb18a;
+  background: #ffffff;
   width: 60px;
   min-width: 60px;
   height: 60px;
@@ -822,7 +822,7 @@ a {
 }
 .cid-sqCC2XxUlm .mbr-iconfont {
   font-size: 2rem;
-  color: #ffffff;
+  color: #808080;
 }
 @media (max-width: 991px) {
   .cid-sqCC2XxUlm .card {
@@ -832,10 +832,24 @@ a {
     margin-bottom: 2rem;
   }
 }
+.cid-sqCC2XxUlm .card-title,
+.cid-sqCC2XxUlm .card-box {
+  color: #ffffff;
+}
+.cid-sqCC2XxUlm .icon-title {
+  color: #ffffff;
+}
+.cid-sqCC2XxUlm .mbr-text,
+.cid-sqCC2XxUlm .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-sqCC2XxUlm .icon-text {
+  color: #ffffff;
+}
 .cid-sqCC77AVmo {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #ff9966;
+  background-color: #ffffff;
 }
 .cid-sqCC77AVmo .mbr-text,
 .cid-sqCC77AVmo .mbr-section-btn {
@@ -846,6 +860,12 @@ a {
 }
 .cid-sqCC77AVmo .mbr-section-btn {
   margin-bottom: 1.2rem;
+}
+.cid-sqCC77AVmo P {
+  color: #000000;
+}
+.cid-sqCC77AVmo H1 {
+  color: #000000;
 }
 .cid-sqCDDp2fy1 {
   z-index: 1000;
